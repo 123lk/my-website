@@ -1,5 +1,3 @@
-$(document).ready(function(){
-  $('h1').click(function(){
-    console.log('clicked');
-  });
+$(document).ready(function() {
+    $('#noworries').fadeOut(2500);
 });
